@@ -18,3 +18,4 @@
 - `react-hot-loader`: HMR 플러그인. 소스 수정시 새로 고치지 않고 반영
 - `react-imported-component`: 경로별 코드 분할
 - `react-delay-render`: 코드 분할로 다른 경로 코드 로드시 로딩을 보여주기 위한 컴포넌트.
+- `extract-text-webpack-plugin`: entry chunk 의 모든 css 모듈을 별도 css 파일로 이동시킴.js 에 번들링 되지 않고 css 파일로 저장.
